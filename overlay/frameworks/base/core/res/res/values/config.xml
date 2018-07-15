@@ -60,4 +60,7 @@
         <item>255</item>
     </integer-array>
 
+    <!-- Enable Night display, which requires HWC 2.0. -->
+    <bool name="config_nightDisplayAvailable">true</bool>
+
 </resources>
